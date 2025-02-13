@@ -5,6 +5,18 @@
 *.pyo
 __pycache__/
 
+# Ignore node_modules and build files
+node_modules/
+.next/
+out/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+
 # 🚀 Virtual Environment
 venv/
 .env
@@ -18,6 +30,12 @@ pip-log.txt
 .vscode/
 .idea/
 *.swp
+
+# Ignore logs and cache
+logs/
+*.log
+.DS_Store
+.env
 
 # 🚀 Node.js (Frontend)
 node_modules/
@@ -36,3 +54,6 @@ build/
 dist/
 .cache/
 *.bak
+
+# Ignore OS-specific files
+Thumbs.db
