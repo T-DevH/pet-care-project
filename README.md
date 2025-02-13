@@ -87,7 +87,7 @@ npm run dev
 
 ## 📚  LLM-RAG Implementation & Blog Series
 
-This project is part of a[ 6-blog series]() covering LLM-RAG implementation from exploration to enterprise deployment, 
+This project is part of a[ 6-blog series](https://medium.com/@thammadou/llm-rag-enhancing-ai-responses-with-document-knowledge-01446fbd54ef) covering LLM-RAG implementation from exploration to enterprise deployment, 
 including AI agents and agentic AI.
 
 📌 **Next Steps**:
