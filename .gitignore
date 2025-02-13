@@ -1,0 +1,38 @@
+# 🚀 General Ignored Files
+.DS_Store
+*.log
+*.pyc
+*.pyo
+__pycache__/
+
+# 🚀 Virtual Environment
+venv/
+.env
+*.env
+
+# 🚀 Python Dependencies
+*.egg-info/
+pip-log.txt
+
+# 🚀 Ignore IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# 🚀 Node.js (Frontend)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# 🚀 FastAPI / Backend Specific
+uploads/
+data/
+faiss_index.bin
+sqlite.db
+
+# 🚀 Ignore Build/Cache Files
+build/
+dist/
+.cache/
+*.bak
